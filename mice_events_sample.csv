@@ -1,0 +1,201 @@
+event_type,city,delegates,days,price_per_person_per_day,total_value,lead_time_weeks,satisfaction_score,year
+Product Launch,Lisbon,490,3,188.71,277403.7,13,4.2,2022
+Conference,Dubai,460,3,774.36,1068616.8,27,4.4,2024
+Incentive Trip,Singapore,71,3,346.15,73729.95,12,5.0,2024
+Incentive Trip,Vienna,352,3,263.23,277970.88,39,4.4,2024
+Product Launch,Paris,360,5,679.4,1222920.0,28,3.6,2024
+Product Launch,Lisbon,110,1,766.71,84338.1,40,3.8,2024
+Conference,Lisbon,328,3,748.67,736691.28,43,3.4,2024
+Conference,Vienna,92,3,634.47,175113.72,19,3.7,2023
+Corporate Retreat,Barcelona,440,3,440.31,581209.2,20,3.4,2024
+Conference,Berlin,151,1,618.27,93358.77,7,3.8,2024
+Incentive Trip,Lisbon,472,4,470.5,888304.0,28,3.7,2023
+Conference,Vienna,423,5,573.13,1212169.95,47,3.5,2023
+Conference,Madrid,170,1,357.17,60718.9,10,3.1,2022
+Incentive Trip,Lisbon,394,1,505.58,199198.52,9,3.7,2024
+Incentive Trip,Madrid,240,2,544.76,261484.8,31,3.3,2022
+Product Launch,Paris,117,4,603.18,282288.24,50,4.9,2024
+Product Launch,Amsterdam,172,2,212.35,73048.4,29,4.1,2023
+Corporate Retreat,Madrid,204,1,427.94,87299.76,22,4.6,2024
+Workshop,Vienna,122,1,166.73,20341.06,14,4.3,2022
+Incentive Trip,Barcelona,177,4,456.11,322925.88,46,3.5,2024
+Workshop,Milan,114,3,725.57,248144.94,27,3.4,2022
+Product Launch,Vienna,258,3,297.06,229924.44,21,4.1,2022
+Gala Dinner,Barcelona,63,3,675.32,127635.48,30,4.9,2024
+Corporate Retreat,Dubai,51,4,681.96,139119.84,30,4.9,2024
+Incentive Trip,Singapore,471,2,459.57,432914.94,9,3.8,2024
+Conference,Dubai,312,5,670.29,1045652.4,47,5.0,2022
+Conference,Vienna,108,2,781.91,168892.56,16,3.3,2023
+Conference,Milan,123,2,692.17,170273.82,20,3.6,2024
+Conference,Barcelona,218,5,408.28,445025.2,24,4.7,2024
+Incentive Trip,Madrid,422,5,531.92,1122351.2,30,3.2,2022
+Corporate Retreat,Singapore,321,5,642.95,1031934.75,10,4.8,2024
+Conference,Amsterdam,464,5,722.09,1675248.8,30,3.5,2024
+Incentive Trip,Singapore,331,4,174.35,230839.4,21,3.8,2024
+Workshop,Milan,39,4,728.22,113602.32,25,4.4,2022
+Gala Dinner,Vienna,491,3,733.07,1079812.11,5,3.7,2023
+Product Launch,Amsterdam,451,4,707.85,1276961.4,47,3.2,2022
+Corporate Retreat,Amsterdam,400,4,653.12,1044992.0,24,3.5,2023
+Workshop,Barcelona,116,4,287.4,133353.6,30,4.5,2024
+Product Launch,Madrid,283,2,192.65,109039.9,49,4.0,2022
+Workshop,Singapore,34,2,275.3,18720.4,16,4.7,2022
+Conference,Vienna,45,3,608.01,82081.35,21,3.7,2023
+Workshop,Milan,345,1,592.76,204502.2,19,3.7,2024
+Incentive Trip,Lisbon,465,4,531.47,988534.2,26,3.7,2023
+Gala Dinner,Barcelona,165,1,401.27,66209.55,14,4.7,2022
+Corporate Retreat,Paris,366,2,324.9,237826.8,30,4.0,2024
+Conference,Vienna,486,2,570.79,554807.88,42,4.6,2022
+Product Launch,Singapore,432,3,613.28,794810.88,49,4.3,2023
+Incentive Trip,Berlin,255,3,291.84,223257.6,23,4.4,2024
+Incentive Trip,Singapore,72,1,482.48,34738.56,46,4.9,2023
+Workshop,Singapore,331,3,344.01,341601.93,10,4.0,2023
+Product Launch,Berlin,461,3,319.75,442214.25,49,4.9,2024
+Product Launch,Paris,96,5,647.56,310828.8,7,4.6,2024
+Incentive Trip,Berlin,368,2,618.83,455458.88,45,4.0,2023
+Product Launch,Milan,227,4,628.88,571023.04,41,4.4,2024
+Corporate Retreat,Berlin,391,2,596.11,466158.02,44,4.6,2024
+Product Launch,Dubai,173,2,696.42,240961.32,39,3.4,2022
+Incentive Trip,Lisbon,399,3,621.37,743779.89,39,4.5,2022
+Gala Dinner,Berlin,355,1,294.46,104533.3,18,4.5,2023
+Incentive Trip,Berlin,210,3,530.62,334290.6,33,4.7,2023
+Conference,Singapore,317,5,196.29,311119.65,16,4.0,2024
+Incentive Trip,Dubai,172,4,185.14,127376.32,13,3.3,2022
+Product Launch,Milan,311,4,243.1,302416.4,49,3.4,2022
+Incentive Trip,Berlin,343,2,353.72,242651.92,7,3.0,2023
+Corporate Retreat,Lisbon,315,2,468.23,294984.9,52,4.6,2022
+Workshop,Milan,344,4,412.21,567200.96,34,3.8,2022
+Workshop,Paris,394,3,767.54,907232.28,24,4.5,2024
+Corporate Retreat,Madrid,366,1,557.35,203990.1,19,3.5,2023
+Product Launch,Lisbon,72,4,477.17,137424.96,23,3.3,2022
+Product Launch,Amsterdam,253,5,537.64,680114.6,25,3.9,2024
+Corporate Retreat,Berlin,481,4,383.51,737873.24,16,3.3,2023
+Conference,Paris,134,2,287.27,76988.36,5,4.2,2022
+Conference,Berlin,384,1,393.88,151249.92,44,3.5,2024
+Workshop,Madrid,324,1,580.28,188010.72,45,4.7,2022
+Gala Dinner,Barcelona,233,4,397.16,370153.12,39,3.5,2024
+Corporate Retreat,Paris,375,1,345.73,129648.75,46,3.2,2024
+Product Launch,Singapore,330,2,422.24,278678.4,10,4.0,2024
+Conference,Amsterdam,78,1,473.53,36935.34,42,3.4,2023
+Workshop,Paris,203,4,341.98,277687.76,6,4.1,2022
+Gala Dinner,Vienna,189,2,151.78,57372.84,46,3.2,2022
+Workshop,Vienna,96,1,656.69,63042.24,8,4.4,2022
+Product Launch,Paris,253,3,321.68,244155.12,7,3.2,2022
+Conference,Amsterdam,204,3,426.9,261262.8,11,3.2,2022
+Conference,Lisbon,359,2,363.63,261086.34,32,4.9,2023
+Gala Dinner,Barcelona,210,3,268.87,169388.1,29,3.8,2023
+Product Launch,Milan,373,4,669.93,999535.56,45,4.8,2022
+Conference,Lisbon,376,1,788.02,296295.52,14,3.2,2024
+Incentive Trip,Singapore,367,4,267.82,393159.76,28,4.6,2024
+Conference,Lisbon,267,4,223.41,238601.88,30,3.9,2022
+Product Launch,Berlin,26,5,648.89,84355.7,40,4.4,2022
+Gala Dinner,Berlin,285,5,597.36,851238.0,43,3.2,2024
+Gala Dinner,Paris,266,3,581.41,463965.18,45,3.8,2024
+Workshop,Madrid,25,2,478.62,23931.0,34,4.7,2022
+Conference,Vienna,184,2,365.08,134349.44,21,3.1,2022
+Workshop,Milan,226,2,201.24,90960.48,32,4.6,2023
+Conference,Vienna,248,3,227.16,169007.04,35,4.5,2022
+Conference,Milan,231,1,512.14,118304.34,4,4.7,2024
+Workshop,Amsterdam,475,5,515.52,1224360.0,45,4.3,2023
+Product Launch,Madrid,438,2,698.81,612157.56,25,4.1,2024
+Workshop,Vienna,386,3,615.34,712563.72,11,3.2,2024
+Corporate Retreat,Madrid,194,3,689.42,401242.44,22,4.1,2023
+Gala Dinner,Barcelona,43,2,470.07,40426.02,49,4.5,2023
+Conference,Amsterdam,332,2,271.9,180541.6,29,3.4,2022
+Gala Dinner,Berlin,75,4,180.23,54069.0,44,4.7,2024
+Conference,Vienna,254,5,771.52,979830.4,12,4.9,2022
+Workshop,Madrid,303,4,695.23,842618.76,34,4.8,2022
+Gala Dinner,Singapore,108,2,217.31,46938.96,46,4.2,2023
+Workshop,Milan,234,5,745.34,872047.8,52,3.5,2023
+Product Launch,Amsterdam,251,2,239.82,120389.64,42,4.4,2024
+Workshop,Amsterdam,451,5,709.46,1599832.3,49,4.5,2024
+Gala Dinner,Paris,122,2,555.71,135593.24,22,4.4,2024
+Corporate Retreat,Lisbon,277,5,601.3,832800.5,24,4.4,2023
+Workshop,Vienna,318,5,762.74,1212756.6,49,3.8,2024
+Workshop,Amsterdam,469,4,675.4,1267050.4,37,3.2,2023
+Corporate Retreat,Madrid,363,1,279.94,101618.22,52,4.6,2023
+Gala Dinner,Amsterdam,94,1,598.89,56295.66,22,3.4,2024
+Conference,Berlin,436,4,216.61,377767.84,47,4.5,2022
+Gala Dinner,Dubai,219,2,482.1,211159.8,48,3.6,2024
+Conference,Milan,218,4,771.86,673061.92,47,3.6,2024
+Conference,Madrid,400,3,282.01,338412.0,32,4.7,2024
+Gala Dinner,Berlin,406,5,505.3,1025759.0,42,3.4,2024
+Corporate Retreat,Amsterdam,249,2,789.24,393041.52,8,3.4,2022
+Gala Dinner,Dubai,81,4,176.41,57156.84,21,4.1,2022
+Corporate Retreat,Singapore,453,3,153.67,208837.53,33,4.4,2022
+Conference,Lisbon,495,3,537.97,798885.45,44,4.2,2024
+Product Launch,Vienna,424,5,507.6,1076112.0,8,4.6,2023
+Workshop,Paris,114,5,194.31,110756.7,36,3.3,2024
+Workshop,Milan,67,3,293.78,59049.78,17,4.3,2023
+Product Launch,Amsterdam,131,5,494.82,324107.1,39,4.6,2024
+Conference,Barcelona,362,3,439.68,477492.48,45,4.2,2024
+Corporate Retreat,Madrid,369,3,397.89,440464.23,11,3.8,2024
+Gala Dinner,Amsterdam,32,5,684.37,109499.2,27,4.0,2024
+Incentive Trip,Vienna,42,3,733.88,92468.88,16,3.6,2022
+Conference,Lisbon,415,5,496.58,1030403.5,44,3.1,2024
+Gala Dinner,Paris,462,4,693.18,1280996.64,17,4.1,2024
+Gala Dinner,Milan,351,1,635.48,223053.48,13,3.0,2024
+Product Launch,Madrid,64,1,185.27,11857.28,20,4.1,2024
+Corporate Retreat,Amsterdam,228,4,443.23,404225.76,29,3.9,2022
+Incentive Trip,Barcelona,293,1,566.92,166107.56,43,3.1,2024
+Workshop,Madrid,378,1,382.51,144588.78,36,3.2,2024
+Product Launch,Singapore,64,3,647.43,124306.56,32,3.8,2024
+Conference,Vienna,100,5,292.91,146455.0,51,3.8,2024
+Product Launch,Lisbon,172,3,772.3,398506.8,4,4.1,2024
+Corporate Retreat,Barcelona,41,1,522.27,21413.07,29,4.1,2022
+Product Launch,Paris,403,3,287.63,347744.67,45,4.7,2022
+Corporate Retreat,Lisbon,133,5,692.59,460572.35,16,3.2,2024
+Workshop,Madrid,455,5,449.82,1023340.5,39,3.1,2024
+Conference,Amsterdam,70,2,621.63,87028.2,35,4.9,2023
+Corporate Retreat,Paris,71,3,552.69,117722.97,16,3.6,2023
+Product Launch,Singapore,357,3,600.75,643403.25,13,4.1,2023
+Product Launch,Milan,106,1,353.59,37480.54,18,4.4,2024
+Incentive Trip,Amsterdam,450,3,237.3,320355.0,50,3.7,2023
+Incentive Trip,Vienna,203,3,466.53,284116.77,10,3.4,2024
+Conference,Amsterdam,459,2,729.34,669534.12,16,3.5,2024
+Conference,Barcelona,476,1,702.23,334261.48,44,3.1,2024
+Workshop,Milan,413,5,288.29,595318.85,6,4.1,2024
+Workshop,Vienna,354,2,387.78,274548.24,18,4.8,2024
+Gala Dinner,Amsterdam,88,4,475.73,167456.96,9,3.8,2024
+Conference,Paris,454,5,594.71,1349991.7,52,4.0,2023
+Corporate Retreat,Lisbon,309,5,578.62,893967.9,13,4.5,2023
+Product Launch,Madrid,132,4,300.64,158737.92,20,3.7,2022
+Gala Dinner,Paris,285,3,402.26,343932.3,33,4.8,2022
+Gala Dinner,Berlin,72,5,561.82,202255.2,21,4.7,2023
+Workshop,Dubai,311,2,394.83,245584.26,28,3.7,2024
+Conference,Dubai,148,4,782.24,463086.08,18,4.0,2023
+Product Launch,Vienna,425,4,726.66,1235322.0,4,4.0,2022
+Incentive Trip,Lisbon,137,1,484.45,66369.65,21,3.4,2022
+Corporate Retreat,Berlin,328,1,579.72,190148.16,30,4.6,2024
+Conference,Vienna,365,4,461.36,673585.6,41,3.3,2023
+Conference,Paris,42,2,522.77,43912.68,14,3.3,2024
+Conference,Singapore,95,1,258.12,24521.4,15,4.0,2023
+Workshop,Singapore,346,1,721.03,249476.38,50,4.3,2023
+Conference,Paris,249,5,795.3,990148.5,34,3.3,2023
+Workshop,Lisbon,426,5,683.29,1455407.7,15,4.2,2024
+Product Launch,Lisbon,390,3,749.53,876950.1,42,4.2,2022
+Incentive Trip,Milan,87,1,160.77,13986.99,37,4.7,2024
+Gala Dinner,Milan,443,2,543.58,481611.88,15,4.0,2024
+Workshop,Madrid,469,5,477.16,1118940.2,11,3.2,2024
+Corporate Retreat,Singapore,296,1,733.03,216976.88,47,4.3,2024
+Incentive Trip,Berlin,467,1,603.47,281820.49,31,3.5,2023
+Incentive Trip,Berlin,321,5,213.52,342699.6,12,3.5,2022
+Conference,Amsterdam,326,5,415.62,677460.6,16,3.0,2024
+Conference,Singapore,287,1,487.85,140012.95,28,4.3,2024
+Product Launch,Milan,205,1,250.61,51375.05,45,4.2,2023
+Workshop,Milan,309,3,547.72,507736.44,47,3.8,2022
+Incentive Trip,Dubai,421,5,463.6,975878.0,27,4.1,2023
+Product Launch,Amsterdam,315,3,653.23,617302.35,29,4.5,2024
+Conference,Paris,248,2,215.18,106729.28,36,3.8,2023
+Workshop,Singapore,376,1,254.48,95684.48,44,3.0,2022
+Corporate Retreat,Vienna,494,5,433.0,1069510.0,8,3.5,2023
+Conference,Singapore,39,4,754.95,117772.2,29,4.2,2024
+Product Launch,Singapore,49,2,566.19,55486.62,32,3.0,2024
+Workshop,Amsterdam,119,1,659.57,78488.83,36,4.0,2022
+Workshop,Lisbon,365,1,383.83,140097.95,45,3.0,2022
+Conference,Amsterdam,419,4,379.53,636092.28,29,3.8,2022
+Workshop,Madrid,397,1,747.47,296745.59,39,3.6,2024
+Workshop,Berlin,197,3,297.09,175580.19,16,3.9,2023
+Workshop,Madrid,153,2,414.64,126879.84,10,4.1,2024
+Product Launch,Berlin,79,5,771.86,304884.7,38,4.6,2024
+Product Launch,Vienna,213,5,464.36,494543.4,19,4.5,2023
+Gala Dinner,Vienna,479,5,710.32,1701216.4,34,3.2,2022
